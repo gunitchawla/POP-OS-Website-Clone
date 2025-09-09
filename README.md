@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/gunit-chawlas-projects/v0-pop-os-website-clone](https://vercel.com/gunit-chawlas-projects/v0-pop-os-website-clone)**
+**[https://vercel.com/gunit-chawlas-projects/v0-pop-os-website-clone](https://v0-pop-os-website-clone.vercel.app/)**
 
 ## Build your app
 
